@@ -1,13 +1,11 @@
-Ê¹ÓÃÇ°ÔÄ¶Á£º
+ä½¿ç”¨å‰é˜…è¯»ï¼š
 
-    ±¾ÏîÄ¿µÄ³É¹ûÖ÷Òª·ÖÎªÈý¸ö²¿·Ö£º¢Ù¸÷ÀàÎÀÐÇÔÆÍ¼Ö¸±êº¯Êý£»¢ÚTYIntensityº¯Êý£»¢Û¿ÉÊÓ»¯½çÃæGUIDE¡£
+    æœ¬é¡¹ç›®çš„æˆæžœä¸»è¦åˆ†ä¸ºä¸‰ä¸ªéƒ¨åˆ†ï¼šâ‘ å„ç±»å«æ˜Ÿäº‘å›¾æŒ‡æ ‡å‡½æ•°ï¼›â‘¡TYIntensityå‡½æ•°ï¼›â‘¢å¯è§†åŒ–ç•Œé¢GUIDEã€‚
 
-    ÔÚÊ¹ÓÃÒÔÉÏº¯ÊýÊ±£¬½¨ÒéÊ×ÏÈÔËÐÐMainScript.mµÄÇ°Á½ÐÐ£¬ÒÔ±£Ö¤ËùÓÐº¯ÊýÓëÔÆÍ¼¶¼ÔÚMATLABµ±Ç°Â·¾¶ÖÐ¡£·ñÔò£¬Ôò¿ÉÄÜÐèÒªÍ¨¹ýÊÖ¶¯²Ù×÷£¬Ìí¼ÓfilesÎÄ¼þ¼ÐÖÁMATLABµ±Ç°Â·¾¶ÖÐ¡£
+    æ‰€ä½¿ç”¨çš„äº‘å›¾ææ–™å¿…é¡»ä¸ºagoraçš„â€œèµ¤å¤–1â€äº‘å›¾ã€‚è¿è¡Œæ—¶ï¼Œæ³¨æ„å°†å›¾ç‰‡æ–‡ä»¶åä¿å­˜ä¸ºå¯ä¾›MATLABè¯»å–çš„å˜é‡åï¼ˆä»¥è‹±æ–‡ä¸ºä¸»ï¼Œä¸å«ä¸­æ–‡å­—ç¬¦ï¼Œä¸å«å¤§å¤šæ•°æ ‡ç‚¹ç¬¦å·ï¼‰ï¼Œå¹¶å°†æ–‡ä»¶æ·»åŠ è¿›å½“å‰æ–‡ä»¶å¤¹æˆ–è·¯å¾„ä¸­ï¼Œæ–¹èƒ½æ­£å¸¸è¿è¡Œã€‚
 
-    ´ó¶àÊýÎÀÐÇÔÆÍ¼Ö¸±êº¯Êý£¨°üÀ¨Ì¨·çÇ¿¶È¹ÀËãµÄ×îÖÕ¹«Ê½£¬¼´TYIntensityº¯Êý£©µÄ¸ñÊ½ÏàÍ¬£¬Îªfunction xxx=fname(name,year)¡£ÕâÐ©º¯Êý¶¼¿ÉÒÔÖ±½Óµ÷ÓÃ£¬·µ»ØµÄÖµ¾ÍÊÇ¸ÃÖ÷¹ÛÖ¸±êµÄ²âËãÖµ¡£ÔÚÊäÈënameÏîÊ±£¬Òª´øÉÏµ¥ÒýºÅ£¬¼´¡¯name¡¯¡£yearÏî×îºÃÊäÈë£¬Èç¹û²»ÊäÈë£¬ÏµÍ³Ä¬ÈÏÎª2100£¬¼´ÒÔ2005ÄêÒÔºóµÄ¹«Ê½½øÐÐ¼ÆËã¡£ÔÚÔËÐÐMainScript.mÓëGUIDE.mÊ±£¬Ö»ÒªfilesÎÄ¼þ¼ÐÔÚMATLABÂ·¾¶ÖÐ£¬ÄÇÃ´ËùÓÐ²¿·Ö¾Í¿ÉÒÔÕý³£ÔË×ª¡£¶ÔÓÚÃ¿¸öÌ¨·ç£¬nameÓëyearÁ½ÏîµÄÊäÈëÒª×¼È·£¬¾ßÌå¿ÉÒÔ²ÎÕÕdataÎÄ¼þ¼ÐÖÐsample.xlsxËù¸ø³öµÄÐÅÏ¢¡£
+    å¤§å¤šæ•°å«æ˜Ÿäº‘å›¾æŒ‡æ ‡å‡½æ•°ï¼ˆåŒ…æ‹¬å°é£Žå¼ºåº¦ä¼°ç®—çš„æœ€ç»ˆå…¬å¼ï¼Œå³TYIntensityå‡½æ•°ï¼‰çš„æ ¼å¼ç›¸åŒï¼Œä¸ºfunction xxx=fname(name,year)ã€‚è¿™äº›å‡½æ•°éƒ½å¯ä»¥ç›´æŽ¥è°ƒç”¨ï¼Œè¿”å›žçš„å€¼å°±æ˜¯è¯¥ä¸»è§‚æŒ‡æ ‡çš„æµ‹ç®—å€¼ã€‚åœ¨è¾“å…¥nameé¡¹æ—¶ï¼Œè¦å¸¦ä¸Šå•å¼•å·ï¼Œå³â€™nameâ€™ã€‚yearé¡¹æœ€å¥½è¾“å…¥ï¼Œå¦‚æžœä¸è¾“å…¥ï¼Œç³»ç»Ÿé»˜è®¤ä¸º2100ï¼Œå³ä»¥2005å¹´ä»¥åŽçš„å…¬å¼è¿›è¡Œè®¡ç®—ã€‚åœ¨è¿è¡ŒMainScript.mä¸ŽGUIDE.mæ—¶ï¼Œåªè¦filesæ–‡ä»¶å¤¹åœ¨MATLABè·¯å¾„ä¸­ï¼Œé‚£ä¹ˆæ‰€æœ‰éƒ¨åˆ†å°±å¯ä»¥æ­£å¸¸è¿è½¬ã€‚å¯¹äºŽæ¯ä¸ªå°é£Žï¼Œnameä¸Žyearä¸¤é¡¹çš„è¾“å…¥è¦å‡†ç¡®ã€‚
 
-    ÈôÒªÖ±½ÓÌåÑé±¾ÏîÄ¿µÄ³É¹û£¬¿ÉÒÔÖ±½ÓÔËÐÐ¿ÉÊÓ»¯½çÃæGUIDE¡£Í¬Ñù£¬½¨ÒéÊ×ÏÈÔËÐÐMainScript.mµÄÇ°Á½ÐÐ¡£¸Ã½çÃæµÄ²Ù×÷Á÷³ÌÈçÏÂ£º¢ÙÑ¡ÔñÌ¨·çÔÆÍ¼ÎÄ¼þ£¬ÆäÑ¡ÔñÂ·¾¶Îª£ºfiles¡údata¡úÔÆÍ¼¿â¡úÑ¡Ôñ¶ÔÓ¦Äê·Ý¶ÔÓ¦µÄÎÄ¼þ¼Ð¡úÑ¡Ôñ¾ßÌåÔÆÍ¼£¬Ëæºó½çÃæ×ó²à´°¿Ú½«ÏÔÊ¾Ì¨·çµÄÔ­Ê¼IR-BWÔÆÍ¼£»¢Ú¹´Ñ¡Ì¨·ç»î¶¯µÄÄê·ÝÑ¡Ïî£¬Èô´íÎó¹´Ñ¡½«µ¼ÖÂ·ÖÎöÊ§Õæ£»¢Ûµã»÷¼ÆËã°´Å¥½øÐÐÔËËã£¬ÓÒ²à´°¿Ú½«ÏÔÊ¾×ª»»ºóµÄIR-BDÔÆÍ¼£¬´°¿ÚÏÂ·½½«ÏÔÊ¾¼ÆËã½á¹û£»¢ÜÒªÖØÐÂ¼ÆËãÆäËüÌ¨·çµÄÇ¿¶È£¬Ö»ÐèÒªÖØ¸´ÒÔÉÏ²½Öè¼´¿É¡£
-
-    ÈôÒªÊµÏÖ±¨¸æÖÐµÄÌ½Ë÷È«¹ý³Ì£¬ÇëÔËÐÐMainScript.m½Å±¾ÎÄ¼þ¡£ÔËÐÐÊ±£¬²»½¨ÒéËùÓÐ´úÂë´ÓÇ°µ½ºóÒ»²¢ÔËÐÐ£»½¨Òé²ÎÕÕ±¨¸æ°´Ä£¿éÔËÐÐ£¬¿ÉÒÔµÃµ½±¾±¨¸æÏÔÊ¾µÄËùÓÐ½á¹û¡£
+    è‹¥è¦ç›´æŽ¥ä½“éªŒæœ¬é¡¹ç›®çš„æˆæžœï¼Œå¯ä»¥ç›´æŽ¥è¿è¡Œå¯è§†åŒ–ç•Œé¢GUIDEã€‚è¯¥ç•Œé¢çš„æ“ä½œæµç¨‹å¦‚ä¸‹ï¼šâ‘ é€‰æ‹©å°é£Žäº‘å›¾æ–‡ä»¶ï¼ŒéšåŽç•Œé¢å·¦ä¾§çª—å£å°†æ˜¾ç¤ºå°é£Žçš„åŽŸå§‹IR-BWäº‘å›¾ï¼›â‘¡å‹¾é€‰å°é£Žæ´»åŠ¨çš„å¹´ä»½é€‰é¡¹ï¼Œè‹¥é”™è¯¯å‹¾é€‰å°†å¯¼è‡´åˆ†æžå¤±çœŸï¼›â‘¢ç‚¹å‡»è®¡ç®—æŒ‰é’®è¿›è¡Œè¿ç®—ï¼Œå³ä¾§çª—å£å°†æ˜¾ç¤ºè½¬æ¢åŽçš„IR-BDäº‘å›¾ï¼Œçª—å£ä¸‹æ–¹å°†æ˜¾ç¤ºè®¡ç®—ç»“æžœï¼›â‘£è¦é‡æ–°è®¡ç®—å…¶å®ƒå°é£Žçš„å¼ºåº¦ï¼Œåªéœ€è¦é‡å¤ä»¥ä¸Šæ­¥éª¤å³å¯ã€‚
 
 
